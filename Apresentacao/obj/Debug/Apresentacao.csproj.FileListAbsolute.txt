@@ -1,0 +1,45 @@
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/Apresentacao.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/Apresentacao.pdb
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/obj/Debug/ResolveAssemblyReference.cache
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/obj/Debug/Apresentacao.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/obj/Debug/Apresentacao.pdb
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/AjaxControlToolkit.pdb
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/ar/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/cs/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/de/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/es/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/fr/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/he/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/hi/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/it/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/ja/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/ko/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/nl/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/pt/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/ru/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/tr-TR/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/zh-CHS/AjaxControlToolkit.resources.dll
+D:/BKPRAFAEL/PESSOAL/Estudo/FACULDADE ADS SENAI/3°Periodo/Des.Cliente Servidor/Projetos/CrudClienteServidor/Apresentacao/bin/zh-CHT/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/Apresentacao.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/Apresentacao.pdb
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/AjaxControlToolkit.pdb
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/ar/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/cs/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/de/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/es/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/fr/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/he/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/hi/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/it/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/ja/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/ko/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/nl/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/pt/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/ru/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/tr-TR/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/zh-CHS/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/bin/zh-CHT/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/obj/Debug/Apresentacao.csprojResolveAssemblyReference.cache
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/obj/Debug/Apresentacao.csproj.CoreCompileInputs.cache
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/obj/Debug/Apresentacao.dll
+/Users/rafael/Downloads/CrudClienteServidor/Apresentacao/obj/Debug/Apresentacao.pdb

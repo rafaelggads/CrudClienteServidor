@@ -1,0 +1,5 @@
+D:\BKPRAFAEL\PESSOAL\Estudo\FACULDADE ADS SENAI\3°Periodo\Des.Cliente Servidor\Projetos\CrudClienteServidor\Entidade\bin\Debug\Entidade.dll
+D:\BKPRAFAEL\PESSOAL\Estudo\FACULDADE ADS SENAI\3°Periodo\Des.Cliente Servidor\Projetos\CrudClienteServidor\Entidade\bin\Debug\Entidade.pdb
+D:\BKPRAFAEL\PESSOAL\Estudo\FACULDADE ADS SENAI\3°Periodo\Des.Cliente Servidor\Projetos\CrudClienteServidor\Entidade\obj\Debug\ResolveAssemblyReference.cache
+D:\BKPRAFAEL\PESSOAL\Estudo\FACULDADE ADS SENAI\3°Periodo\Des.Cliente Servidor\Projetos\CrudClienteServidor\Entidade\obj\Debug\Entidade.dll
+D:\BKPRAFAEL\PESSOAL\Estudo\FACULDADE ADS SENAI\3°Periodo\Des.Cliente Servidor\Projetos\CrudClienteServidor\Entidade\obj\Debug\Entidade.pdb
